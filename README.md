@@ -1,6 +1,6 @@
 # Hugo Appyness
 
-!(Hugo Appyness)[images/screenshot.png]
+![Hugo Appyness](./images/screenshot.png)
 
 Appyness is an app showcase theme, you can list all the app features with screenshots using colored slides. It supports all the features required for an app showcase website.
 
